@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here begynneth a lytell treatyse of the dyenge creature enfected with sykenes vncurable with many sorowfull complayntes.</title>
+            <title>Dyenge creature.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1506</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73774</idno>
+            <idno type="STC">STC 6033.5</idno>
+            <idno type="STC">ESTC S113427</idno>
+            <idno type="EEBO-CITATION">99898420</idno>
+            <idno type="PROQUEST">99898420</idno>
+            <idno type="VID">176662</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73774)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176662)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 604:5a, 2060:5a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here begynneth a lytell treatyse of the dyenge creature enfected with sykenes vncurable with many sorowfull complayntes.</title>
+                  <title>Dyenge creature.</title>
+               </titleStmt>
+               <extent>[12]+ p.   </extent>
+               <publicationStmt>
+                  <publisher>by W. de Worde,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1506]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from STC.</note>
+                  <note>Signatures: A⁶+.</note>
+                  <note>Bound and filmed with STC 6034.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:176662:1"/>
+            <!-- PDF PAGE 15 -->
+            <pb facs="tcp:176662:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <head>¶Here begynneth a lytell treatyſe of the dy<g ref="char:EOLunhyphen"/>enge creature enfected with ſykenes vncu<g ref="char:EOLhyphen"/>rable with many ſorowfull complayntes.</head>
+            <head>
+               <figure>
+                  <p>Labores amici.</p>
+                  <sp>
+                     <p>O homo auerte ab inpatie<g ref="char:cmbAbbrStroke">̄</g>tia animam tuam.</p>
+                  </sp>
+                  <sp>
+                     <p>Sum captiuatꝰ</p>
+                  </sp>
+                  <figDesc>deathbed scene</figDesc>
+               </figure>
+            </head>
+            <pb facs="tcp:176662:2"/>
+            <!-- PDF PAGE 16 -->
+            <head>
+               <figure>
+                  <sp>
+                     <p>Confuſi ſumꝰ</p>
+                  </sp>
+                  <sp>
+                     <p>Heu infame.</p>
+                  </sp>
+                  <sp>
+                     <p>Furore conſumor.</p>
+                  </sp>
+                  <sp>
+                     <p>animam amiſſimus.</p>
+                  </sp>
+                  <sp>
+                     <p>Spes nobis nulla</p>
+                  </sp>
+                  <figDesc>deathbed scene</figDesc>
+               </figure>
+            </head>
+            <p>
+               <pb facs="tcp:176662:2"/>
+               <!-- PDF PAGE 16 -->
+               <seg rend="decorInit">A</seg>Làs thàt euer I ſynnèd in my lyfe to me is come this day y<hi rend="sup">e</hi> dredfull tydynges that euer I herde / here hath ben with me a ſer geaunt of armes whoſe name is crewelte from the kynge of all kynges / lorde of all lordes / &amp; Iuge of all Iuges lyenge on me his mace of his offyce ſayenge vnto me I areſt you &amp; warne you to make you redy &amp; y<hi rend="sup">t</hi> ye fayle not to be redy euery houre whan ye be called on / ye ſhall not wete whan. And call ſadly to your remembraunce your olde &amp; longe conty<g ref="char:EOLhyphen"/>nued offences / the goodnes of god how largly he hath departed with you the gyftes of nature / the gyftes of fortune &amp; the gyftes of grace / &amp; how he hath departed with you largely &amp; ordeyned you at your baptym thre ſad borowes that ye ſholde ſafly &amp; ſewerly be kepte in your tender age as well from vices as fro bodely pe<g ref="char:EOLhyphen"/>ryll &amp; ordeyned you a good aungell to kepe you and to cou<g ref="char:cmbAbbrStroke">̄</g>ſeyll you yf ye haue be cou<g ref="char:cmbAbbrStroke">̄</g>ſeylled by hym bethynke you. And whan ye come to the yere of dyſcrecyon he or deyned you thre ſad counſeyllers / reaſon / drede / and conſcyence yf ye haue be rewled by theyr cou<g ref="char:cmbAbbrStroke">̄</g>ſeyll call that to your remembraunce. He ordeyned you alſo .v. wyttes / ſeruauntes that ye ſholde be mayſter of &amp; rule them after your dyſcrecyou / that is to ſaye your felyn<g ref="char:EOLunhyphen"/>ge / your ſyght / your herynge / your ſpeche / &amp; your taſt How haue ye rewled theſe that be vnder your obey<g ref="char:EOLhyphen"/>ſau<g ref="char:cmbAbbrStroke">̄</g>ce me thy<g ref="char:cmbAbbrStroke">̄</g>keth ye haue moche thy<g ref="char:cmbAbbrStroke">̄</g>ge to anſwere for for the Iuge that ſhall ſytte vpon you he wyll not be percyall nor he wyll not be corrupte with good but he wyll my<g ref="char:cmbAbbrStroke">̄</g>ſter to you Iuſtyce &amp; equyte certaynly as well as this There were certayne thynges he forbad you &amp; the thynges ye ſholde flee in ony wyſe that is to were
+<pb facs="tcp:176662:3"/>
+               <!-- PDF PAGE 17 -->the ſeuen deedly ſynnes and all thynges that ſholde prouoke moue or ſtere you therto he badde you flee / haue ye do ſo / haue ye kepte his co<g ref="char:cmbAbbrStroke">̄</g>maundementes .x. And yet that is but lytell thynge.</p>
+            <div type="part">
+               <head>¶ The lamentacyon of the dyenge creature.</head>
+               <p>ALas alas exſcuſe me I can not / and whome I myght deſyre to ſpeke for me I wote not / the day &amp; tyme is ſo dredful / the Iuge is ſo ryghtfull myn enmyes be cruell my kyn my neyghbours my frendes my ſeruauntes be not fauourable to me / &amp; alſo I wote well they ſhall not be herde there.</p>
+            </div>
+            <div type="part">
+               <head>¶ The complaynt of the dyenge creature to the good aungell.</head>
+               <p>O My good aungell to whome our lorde toke me to kepe where be ye now me thynketh ye ſholde be here now &amp; anſwere for me for the drede of deth dy<g ref="char:EOLhyphen"/>ſtroubleth me ſo y<hi rend="sup">t</hi> I can not anſwere for my ſelfe here is my bad aungell redy &amp; is one of my chefe accuſers with legions of fendes with hym &amp; I haue no creature to anſwere for me / alas it is an heuy caas.</p>
+            </div>
+            <div type="part">
+               <head>¶ The anſwere of the good aungell to the dyenge creature.</head>
+               <p>AS to your badde dedes I was neuer conſen<g ref="char:EOLhyphen"/>tynge. I ſawe your natural inclynacyon more dyſpoſed to be rewled by your bad aungell than by me how be it ye can not exſcuſe you but whan ye were pur
+<pb facs="tcp:176662:3"/>
+                  <!-- PDF PAGE 17 -->poſed to do ony thy<g ref="char:cmbAbbrStroke">̄</g>ge that was co<g ref="char:cmbAbbrStroke">̄</g>trary to the co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>dementes of god I fayled not to remembre you that it was not well &amp; counſeylled you to flee the places of peryll and the company that ſholde ſtere or moue you therto can ye ſaye nay hereto / how can ye thynke that I coude anſwere for you.</p>
+            </div>
+            <div type="part">
+               <head>¶ The complaynt of the dyenge creature to reaſon drede and conſcyence.</head>
+               <p>O Ye reaſon drede &amp; conſcyence ye were aſſygned to be of my counſeyll now come I requyre you &amp; helpe me to anſwere for me for my defautes be ſo ma<g ref="char:EOLhyphen"/>ny &amp; ſo abhomynable in the ſyght of hym that ſhall be my Iuge and my accuſers be ſo many &amp; ſo vnfrendly that they leue not one defaute behynde. Now come I require you &amp; helpe to anſwere for me for it was neuer ſo grete nede. The fere &amp; the drede that I am in dyſ<g ref="char:EOLhyphen"/>troubleth me ſo that one worde I can not ſpeke for my ſelfe. Alas that euer I ſawe this daye.</p>
+            </div>
+            <div type="part">
+               <head>¶ The anſwere of reaſon.</head>
+               <p>BE ye remembred that our lorde ordeyned you a good aungell &amp; a badde aungell &amp; he ordeyned you reaſon &amp; dyſcrecyon to knowe the good from the yll &amp; he co<g ref="char:cmbAbbrStroke">̄</g>maunded you to do good &amp; leue the euyll / he put you in fre choyſe whether ye wolde do well or euyl ye ought to call to your remembraunce how well god hath done for you &amp; helped you in euery daunger &amp; pe ryll he wolde haue ben loued dred &amp; ſerued accordy<g ref="char:cmbAbbrStroke">̄</g>ge to the many folde graces &amp; kyndeneſſes that he hath ſhewed vnto you how to anſwere for you I wote not loth I am to accuſe you / &amp; excuſe you I can not.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:176662:4"/>
+               <!-- PDF PAGE 18 -->
+               <head>¶ The complaynt to the dyenge creature to drede ſaynge thus.</head>
+               <p>A Drede where be ye is there no helpe and ſo<g ref="char:EOLhyphen"/>cour with you to ſpeke for me whan I ſhall come to my Iugement.</p>
+            </div>
+            <div type="part">
+               <head>¶ The anſwere of drede.</head>
+               <p>NO certaynly for whan ye were ſet in pleaſau<g ref="char:cmbAbbrStroke">̄</g>ce &amp; delectacyon of the worlde reaſon put in your mynde that ye dyde not well / &amp; I drede was with you at all tymes and in euery place &amp; fayled not to ſpeke vnto you &amp; to put you in mynde of the ſhame of this worlde and drede of dampnacyon &amp; of the peryll that worlde folowe as well here as elles where reherſynge vnto you the punyſſheme<g ref="char:cmbAbbrStroke">̄</g>tes that our lorde ordeyned for ſynne ſaynge vnto you. Se ye not how gracyouſly our lorde hath called you from ſynne &amp; wretchednes yf ye wolde vnderſtande it / how hath he longe kepte you in worſhyp eſtate and in proſperyte &amp; coude not knowe the goodnes of god / how hath he chaſtyſed you &amp; how ofte by loſſe of your chyldren / loſſe of your kyn and frendes / loſſe of your goodes and loſſe of all tho thynges that ye coude not be pleaſed with &amp; ſet you in the indygnacyon of the grete hyghe &amp; myghty prynce and helpe you out of the daungers &amp; perylles that ye haue ben in at all tymes / &amp; yet haue ye not loued hym dred hym &amp; ſerued hym that in all theſe perylles hath preſerued &amp; kepte you &amp; hath ben ſo gracyous &amp; good forde to you who ſholde ſpeke for you. I. nay certaynly</p>
+            </div>
+            <div type="part">
+               <head>¶ The complaynt of the dyenge creature to conſcyence ſaynge thus.</head>
+               <p>
+                  <pb facs="tcp:176662:4"/>
+                  <!-- PDF PAGE 18 -->
+ALas conſcyence is there no helpe with you I haue herde ſaye longe ago the worlde was to curſte / but I wolde hope that conſcyence wolde haue compaſſyon of my dyſtreſſe and moche the more that I am frendles.</p>
+            </div>
+            <div type="part">
+               <head>¶ The anſwere of conſcyence to the dyenge creature.</head>
+               <p>I Am ſory to accuſe you &amp; excuſe you I can not for conſcyence and drede haue ben but ſeldom from you &amp; called vpon you in euery tyme &amp; place of peryll &amp; had you flee the occaſyons of ſynne ye myght haue fled at that tyme and wolde not / now ye wolde flee deth &amp; can not / we ſholde ſpeke for you &amp; dare not &amp; though we wolde it auayleth not ye muſt ſorowfully &amp; mekely ſuffre y<hi rend="sup">e</hi> Iugementes that ye haue deſerued.</p>
+            </div>
+            <div type="part">
+               <head>¶ The complaynt of the dyenge creature to the fyue wyttes.</head>
+               <p>O Ye fyue that were ordeyned to be my ſeruau<g ref="char:cmbAbbrStroke">̄</g>tes &amp; vnder myn obeyſaunce &amp; to haue be rewled at all tymes as I wolde haue you / is there no good word that ye may a forde to ſaye for me &amp; recorde my deme<g ref="char:EOLhyphen"/>nynge to you &amp; reporte of me how I haue rewled and gouerned you y<hi rend="sup">t</hi> were take me to kepe rewle &amp; gouerne me thynketh ye ſholde ſaye for me now / who myght ſoo well ſaye for me as ye fyue / ye haue ben with me contynually euer ſyth that I was borne nyght &amp; daye and neuer at no tyme from me thynketh of your kyn<g ref="char:EOLunhyphen"/>deneſſe ye ſholde haue compaſſyon vpon me and ſaye the beſt that ye coude ſaye for me. I haue ben frendly to you and brought you in euery place of pleaſaunce and dyſporte / now ſhewe your ky<g ref="char:cmbAbbrStroke">̄</g>denes agayne to me and ſpeke to fayth and hope for me that they wolde
+<pb facs="tcp:176662:5"/>
+                  <!-- PDF PAGE 19 -->charytably do my meſſage vnto the mooſt gloryous prynce that euer was is or ſhall be.</p>
+            </div>
+            <div type="part">
+               <head>¶ The anſwere of the fyue wyttes.</head>
+               <p>CErtaynly we meruayll that ye wolde deſyre vs to ſpeke for you vnderſtandynge theſe worſhip full people haue denyed and refuſed to ſpeke for you your good aungell reaſon drede and conſcyence / how ſholde we be herde or what credens wyll be gyuen vn to vs that haue ben your ſeruauntes and vnder your obeyſaunce and no thynge at all tymes but as ye haue co<g ref="char:cmbAbbrStroke">̄</g>maunded vs to do / call to your remembraunce how ye haue rewled vs fyue / ſyght / herynge / felynge and thought ye haue at all tymes brought vs in places of pleaſaunce &amp; dyſporte &amp; thoughe it were dyſporte &amp; pleaſaunce / for the tyme it is now ſorowe wepynge &amp; wayly<g ref="char:cmbAbbrStroke">̄</g>ge for your ſake that we can not excuſe you nor no thynge ſaye for you that myght be to your wel or to your eſe for we haue ben preuy &amp; partyners to all that hath ben myſdone in ony wyſe and in euery place and youre offences in euery thynge is in your defaute for and ye had ſadly rewled vs and lyke a ſouerayne ye ſholde haue reſtrayned in vs euery vyce / for we ſholde haue be ruled by you in euery thy<g ref="char:cmbAbbrStroke">̄</g>ge / &amp; otherwyſe than ye wolde haue vs do we wolde not do / therfore of neceſ<g ref="char:EOLunhyphen"/>ſyte your defautes muſt be layd vpon you for we haue do as ſeruau<g ref="char:cmbAbbrStroke">̄</g>tes ſhold do &amp; obeyed you in euery thy<g ref="char:cmbAbbrStroke">̄</g>ge &amp; dyſobeyed you in no thynge / wherfore of ryght the peryll muſt be yours what credence wyll ye gyue to vs than / yf we ſholde ſay well of you the people wold ſay that we were fals dyſſymulours &amp; fauourers of ſy<g ref="char:cmbAbbrStroke">̄</g>ne.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:176662:5"/>
+               <!-- PDF PAGE 19 -->
+               <head>¶ The lamentacyon of the dyenge creature.</head>
+               <p>ALas there is no creature that I can complayn me to but vtterly refuſeth to ſaye ony thynge that myght be to my comforte.</p>
+            </div>
+            <div type="part">
+               <head>The co<g ref="char:cmbAbbrStroke">̄</g>playnt of the dyenge creature to fayth &amp; hope.</head>
+               <p>O Holy fayth &amp; hope in you is all my truſt for how greuouſly &amp; how myſcheuouſly y<hi rend="sup">t</hi> euer I offen<g ref="char:EOLhyphen"/>ded god you diſpleaſed I neuer. I haue alway byleued as the chyrche of cryſtendome hath taught me &amp; ſpecy<g ref="char:EOLunhyphen"/>ally is of the mooſt holy incarnacyon I was neuer in thought. I haue byleued in the bleſſyd and mooſt glo<g ref="char:EOLhyphen"/>ryous trynyte fader ſone &amp; holy gooſt. I haue byleued that the ſeconde perſone of the trynyte deſcended in to the boſom of the mooſt gloryous and pure chaſt meke vyrgyn that euer was is or ſhall be &amp; medled his very godhede with her pure chaſt virgynyte &amp; may denhede and in her boſom was parfytly very god &amp; man con<g ref="char:EOLhyphen"/>ceyued by the grete myſtery of the holy gooſt without knowlege or company of ony erthly man &amp; ſhe a pure chaſt virgyn flowrynge in virgynyte and by herynge of the holy archaungell Gabryell whiche brought vn to her the mooſt gracyous &amp; good tydynges that euer came to man kynde. Now holy Fayth take with you hope &amp; ye twayne of your perfyte charyte be my aduo<g ref="char:EOLunhyphen"/>cates in the hyghe courte / and refuſe me not nor dyſ<g ref="char:EOLhyphen"/>dayne me not for myn horryble and abhominable ſyn<g ref="char:EOLunhyphen"/>nes that I haue done / whiche aſketh vengeaunce in this worlde and dampnacyon eternall without the mercyes of hym whiche is almyghty / What meane
+<pb facs="tcp:176662:6"/>
+                  <!-- PDF PAGE 20 -->myght I haue therto. I praye you counſeyll me for ye knowe well that my reaſon neuer dyſcorded with the fayth / &amp; as to you Hope I hope all wayes that ye wyll ſaye for me that I haue alwayes hoped to the mercyes of god almyghty and that I ſholde be one of the chyl<g ref="char:EOLhyphen"/>dren of ſaluacyon and one of tho that ſholde be rede<g ref="char:EOLhyphen"/>med by the precyous and bytter paynfull paſſion as other ſynners haue be and certaynly other plee nor re<g ref="char:EOLunhyphen"/>ſyſtence I can not make. But and ye twayne wolde be a meane for me to that mooſt gloryous and pure chaſte virgyn that choſen was by one aſſent of all the hole gloryous trynyte to do the mooſt gloryous and worſhypfull acte that euer was done for her chaſtyte her pure virgynyte her mekeneſſe her vertue and her conſtaunce was cauſe that ſhe was choſen by all the hole gloryous trynyte to be doughter mother &amp; ſpouſe to the mooſt gloryous trynyte &amp; that ſhe ſholde bere hym that ſholde redeme all mankynde from dampna<g ref="char:EOLunhyphen"/>cyon who may ſo well be aduocatryſe to the fader the ſone and the holy gooſt as ſhe and ye wyll be meane to her ſone for me I hope ſhe wyll not refuſe me / for I vnderſtande and knowe well that ſhe hath holpe ma<g ref="char:EOLhyphen"/>ny a ſynner that hath ryght greuouſly offended and in the holy pſalme that was made bytwene her &amp; her coſyn ſaynt Elyzabeth it was ſayd that all generacy<g ref="char:EOLunhyphen"/>ons ſholde blyſſe her. I hope at the begynnynge of the worlde our lorde put not me out of his nombre of tho that ſholde blyſſe his mooſt holy moder &amp; recorde her mercy pyte &amp; grace that ſhe ſhewed to ſynners whan they haue none other ſocour ne helpe. She is moder of orphans / and ſhe is conſolacyon of them that ben dyſſolate / ſhe is guyde to all tho that be out of the way
+<pb facs="tcp:176662:6"/>
+                  <!-- PDF PAGE 20 -->to ſet them in the ryght waye. I am an orphan I am dyſſolate. I am out of the waye I wote not where to crye and call after ſocour and helpe but onely to her that bare our redemptour who may ſo well be meane to the ſone as the moder. And ye twayne Fayth and Hope wolde be meane to the moder of mercy for me. Now gracyous Fayth and Hope do your parte and dyſdayne not my requeſt thoughe I deſyre you to this occupacyon / for and ye twayne wolde denye to ſaye for me I thynke I ſhall fall in dyſpayre for on whome to call after ſocour I wote not / and to put my ſelfe in prees as a poore naked beſt vnclothed of vertue and repleted with vyces naked of grace and in myn owne defaute and to come to the preſence of the kynge of all kynges and vnpouruayed of all thynges that wolde accorde with his mooſt ryall and Imperyall eſtate I dare not take it vpon me I ſholde be in ſuche drede &amp; fere I ſholde not con ne dare not ſpeke for my ſelfe for I haue prayed my good aungell to ſpeke for me and he hath denyed it. I haue called vpon Reaſon Drede and Conſcyens &amp; they haue anſwered me full heuyly that they be loth to accuſe me and exſcuſe me they can not / &amp; alledgeth many a grete reſonable cauſe why y<hi rend="sup">t</hi> I can not ſaye nay to. I haue called vpon my ſeruaun<g ref="char:EOLunhyphen"/>tes whiche were take me to rewle and gouerne as I wolde anſwere for them / and they anſwere me ryght ſorowfully &amp; ſaye yf they ſholde ſaye ony good worde for me they ſholde not ſaye trouth of me &amp; caſteth to me that peryll that no body wolde gyue credence vn<g ref="char:EOLhyphen"/>to them yf they wolde ſaye well on me but call theym flaterers fals dyſſymulours and flaterers of ſynne. Alas alas I haue heuyly dyſpe<g ref="char:cmbAbbrStroke">̄</g>ded my longe lyfe that
+<pb facs="tcp:176662:7"/>
+                  <!-- PDF PAGE 21 -->in all this longe tyme haue not purchaſed me. One frende to ſpeke for me had our lorde of his mooſt am<g ref="char:EOLhyphen"/>ple grace ordeyned me unmedyatly after my cryſten<g ref="char:EOLhyphen"/>dome to haue dyed forth with I myght ſaye I had be borne in a gracyous houre. But wolde it pleaſe your goodnes to ſpeke for me and vnderſtande whether I ſhall haue hardynes to make a byll to the bleſſyd lady and mooſt holy vyrgyn that euer was and ſhe that dyſdayneth not nor denyeth not ſy<g ref="char:cmbAbbrStroke">̄</g>nard ſy<g ref="char:cmbAbbrStroke">̄</g>ners whan they call after grace. Notwithſtandynge her chaſtyte and her pure virgynyte excelleth all other virgyns. Now good go your waye &amp; lette me wete how I ſhall ſpede for all this tyme I lyue in ſuche drede &amp; fere that me were better dye anone than lyue ony lenger in the drede that I am in. And alſo I haue ſo grete drede &amp; fere of the ryghtwyſnes of almyghty god that I am almooſt deed for fere. For reaſon drede &amp; conſcyence ſayd to me full ſhortly that the hyghe Iuge wolde not be percyall nor he wolde not be corrupte with good but he wyll mynyſter to me Iuſtyce certaynly but and he atteyneth to mynyſtre to me Iuſtyce without fauour I wyll appele to his mercyes certaynly for other reme<g ref="char:EOLunhyphen"/>dy is ther<g ref="char:cmbAbbrStroke">̄</g> none par de. Origene our bleſſyd lady helpe Thyofull / &amp; ſyr Emery how ſholde they haue done ne the moder of mercy had ben &amp; many another ſynner that her grace hath holpe. She is quene of heuen lady of the worlde and empreſſe of hell / and ſaynge to her ſone cryſt Iheſu hath dyed &amp; ſuffred ſo tourmentous a deth &amp; in her owne ſyght to her grete ſocour and mo<g ref="char:EOLunhyphen"/>therly compaſſyon I hope ſhe wolde be loth that theke precyous paſſyon ſholde be loſte in ony creature that her bleſſyd ſone ſuffred ſo pacyently.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:176662:7"/>
+               <!-- PDF PAGE 21 -->
+               <head>¶ The anſwere of fayth &amp; hope to y<hi rend="sup">e</hi> dyenge creature.</head>
+               <p>HAue ye none acqueyntaunce wyth our brother Charyte we meruayle that ye haue not ſpoken of hym in all this tyme / for and ye were Ioyned with vs twayne your meſſage ſholde be the more accepta<g ref="char:EOLhyphen"/>bly herde manyfolde.</p>
+            </div>
+            <div type="part">
+               <head>¶ The lamentable complaynt of the dyenge creature to fayth hope and charyte.</head>
+               <p>CErtaynly I haue but lytell deled with hym. I was neuer conuerſaunt with hym &amp; that me re<g ref="char:EOLunhyphen"/>penteth now / for I fele by you twayne that he may do moche in the hygh courte. I haue more deled with ven<g ref="char:EOLunhyphen"/>geaunce than I haue with charyte / for I wolde haue ben auenged vpon euery man by my wyll whan the people had ſlayne my chyldren my kyn my frendes &amp; robbed &amp; ſpoyled my ſelfe certaynly I wolde haue ben a wroke ryght fayne and I had had power to my wyll but though my power were lytell certaynly I haue ha<g ref="char:EOLunhyphen"/>ted them and wylled them to haue ben done to as they haue done to me / and wel I wote that is not the ordre of charyte. But now I hertely crye god mercy our bleſ<g ref="char:EOLhyphen"/>ſed lady &amp; you holy charyte of the that myn enemyes here afore god oure bleſſed lady &amp; you thre. I forgyue them all that they haue done agaynſt me / &amp; wyl not be auenged thought I myght: And I pray you holy cha<g ref="char:EOLhyphen"/>ryte thoughe it were longe or I were acqueynted with you be not the lother to doo for me I ſore repente me that I haue thus vnreſonably &amp; vnwyttyngely abſen<g ref="char:EOLhyphen"/>ted me frome you &amp; hertely I crye you mercy / &amp; praye <gap reason="missing" extent="1+ pages">
+                     <desc>〈1… pages missing〉</desc>
+                  </gap>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
